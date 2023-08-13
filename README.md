@@ -2,7 +2,6 @@
   
   ![header](https://capsule-render.vercel.app/api?type=Waving&height=200&text=thundevistan&fontColor=d5e6f5&color=timeGradient&animation=fadeIn)
 </div>
-
 <div align=center>
 	
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthundevistan&count_bg=%2360B221&title_bg=%235A3B3B&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -23,9 +22,9 @@
 </div>
 <br>
 <div align=center>
-	<p>🎨 SNS & Portfolio 🎨</p>
+	<p>📡 SNS & Portfolio 📡</p>
 	
-[![Velog Badge](http://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&link=https://velog.io/@thundevistan/)](https://velog.io/@thundevistan)
+[![Velog Badge](http://img.shields.io/badge/Velog-white?style=flat-square&logo=Velog&link=https://velog.io/@thundevistan/)](https://velog.io/@thundevistan)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kotdev99@gmail.com)](mailto:kotdev99@gmail.com)
 [![Notion Badge](http://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&link=https://www.notion.so/c7f0510ec8914f148131407bf14053d1?pvs=4)](https://www.notion.so/c7f0510ec8914f148131407bf14053d1?pvs=4)
 </div>

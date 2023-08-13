@@ -41,5 +41,3 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=thundevistan)](https://solved.ac/thundevistan/)
 </div>
 <br>
-
-![](./profile-3d-contrib/profile-season-animate.svg)

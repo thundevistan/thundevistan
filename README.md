@@ -21,7 +21,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thundevistan&layout=compact"><br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=thundevistan&show_icons=true">
 
-
-   
-
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Kotlin</title><path d="M24 24H0V0h24L12 12Z"/></svg>
+![](./profile-3d-contrib/profile-green-animate.svg)
